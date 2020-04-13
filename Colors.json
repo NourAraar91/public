@@ -1,0 +1,130 @@
+ {
+            "name": "Colors",
+            "translations": {},
+            "words": [
+                {
+                    "key": "White",
+                    "translations": {}
+                },
+                {
+                    "key": "Yellow",
+                    "translations": {}
+                },
+                {
+                    "key": "Blue",
+                    "translations": {}
+                },
+                {
+                    "key": "Red",
+                    "translations": {}
+                },
+                {
+                    "key": "Green",
+                    "translations": {}
+                },
+                {
+                    "key": "Black",
+                    "translations": {}
+                },
+                {
+                    "key": "Azure",
+                    "translations": {}
+                },
+                {
+                    "key": "Brown",
+                    "translations": {}
+                },
+                {
+                    "key": "Ivory",
+                    "translations": {}
+                },
+                {
+                    "key": "Teal",
+                    "translations": {}
+                },
+                {
+                    "key": "Silver",
+                    "translations": {}
+                },
+                {
+                    "key": "Purple",
+                    "translations": {}
+                },
+                {
+                    "key": "Navy blue",
+                    "translations": {}
+                },
+                {
+                    "key": "Pea green",
+                    "translations": {}
+                },
+                {
+                    "key": "Gray",
+                    "translations": {}
+                },
+                {
+                    "key": "Orange",
+                    "translations": {}
+                },
+                {
+                    "key": "Maroon",
+                    "translations": {}
+                },
+                {
+                    "key": "Charcoal",
+                    "translations": {}
+                },
+                {
+                    "key": "Aquamarine",
+                    "translations": {}
+                },
+                {
+                    "key": "Coral",
+                    "translations": {}
+                },
+                {
+                    "key": "Fuchsia",
+                    "translations": {}
+                },
+                {
+                    "key": "Wheat",
+                    "translations": {}
+                },
+                {
+                    "key": "Lime",
+                    "translations": {}
+                },
+                {
+                    "key": "Crimson",
+                    "translations": {}
+                },
+                {
+                    "key": "Khaki",
+                    "translations": {}
+                },
+                {
+                    "key": "Hot pink",
+                    "translations": {}
+                },
+                {
+                    "key": "Magenta",
+                    "translations": {}
+                },
+                {
+                    "key": "Olden",
+                    "translations": {}
+                },
+                {
+                    "key": "Plum",
+                    "translations": {}
+                },
+                {
+                    "key": "Olive",
+                    "translations": {}
+                },
+                {
+                    "key": "Cyan",
+                    "translations": {}
+                }
+            ]
+        }
