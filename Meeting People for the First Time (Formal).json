@@ -1,7 +1,11 @@
 {
             "name": "Meeting People for the First Time (Formal)",
             "translations": {},
-            "words": [
+            "words": [        
+                {
+                    "key": "My father is a doctor. He works at the local hospital.",
+                    "translations": {}
+                },
                 {
                     "key": "Hello it's a pleasure to meet you",
                     "translations": {}
