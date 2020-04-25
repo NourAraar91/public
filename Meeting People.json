@@ -244,7 +244,7 @@
         }
       },
       {
-        "key": "How are you",
+        "key": "How are you?",
         "translations": {
           "af": "Hoe gaan dit",
           "ar": "كيف حالك",
@@ -293,7 +293,7 @@
         }
       },
       {
-        "key": "How are you doing",
+        "key": "How are you doing?",
         "translations": {
           "af": "Hoe gaan dit met jou",
           "ar": "كيف هي احوالك",
@@ -391,7 +391,7 @@
         }
       },
       {
-        "key": "How is your day",
+        "key": "How is your day?",
         "translations": {
           "af": "Hoe is jou dag",
           "ar": "كيف يومك",
@@ -587,7 +587,7 @@
         }
       },
       {
-        "key": "How is everything",
+        "key": "How is everything?",
         "translations": {
           "af": "Hoe gaan dit",
           "ar": "كيف تجري الامور",
@@ -636,7 +636,7 @@
         }
       },
       {
-        "key": "How is life",
+        "key": "How is life?",
         "translations": {
           "af": "Hoe is die lewe",
           "ar": "كيف هي الحياة",
@@ -685,7 +685,7 @@
         }
       },
       {
-        "key": "How are things",
+        "key": "How are things?",
         "translations": {
           "af": "Hoe is dinge",
           "ar": "كيف هي الأمور",
@@ -734,7 +734,7 @@
         }
       },
       {
-        "key": "What's up",
+        "key": "What's up?",
         "translations": {
           "af": "Wat is aan die gang",
           "ar": "ماذا تفعل",
@@ -783,7 +783,7 @@
         }
       },
       {
-        "key": "What's going on",
+        "key": "What's going on?",
         "translations": {
           "af": "Wat gaan aan",
           "ar": "ماذا يحدث هنا",
@@ -832,7 +832,7 @@
         }
       },
       {
-        "key": "How have you been",
+        "key": "How have you been?",
         "translations": {
           "af": "Hoe gaan dit",
           "ar": "كيف كان حالك",
@@ -881,7 +881,7 @@
         }
       },
       {
-        "key": "Long-time no see",
+        "key": "Long time no see",
         "translations": {
           "af": "Lanklaas gesien",
           "ar": "وقت طويل لا رؤية",

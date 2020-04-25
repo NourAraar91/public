@@ -1,6 +1,6 @@
 [
     {
-      "topic": "Meeting People",
+      "topic": "Meeting people",
       "words": [
           "Hello",
           "Good morning",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "topic": "Leaving People (Formal)",
+      "topic": "Leaving people (Formal)",
       "words": [
           "Goodbye",
           "Bye",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "topic": "Leaving People (Informal)",
+      "topic": "Leaving people (Informal)",
       "words": [
           "See you",
           "See you soon",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "topic": "Meeting People for the First Time (Formal)",
+      "topic": "Meeting people for the first time (Formal)",
       "words": [
           "My father is a doctor. He works at the local hospital.",
           "Hello it's a pleasure to meet you",

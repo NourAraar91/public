@@ -179,7 +179,7 @@
   ],
   "categories": [
     {
-      "name": "Meeting People",
+      "name": "Meeting people",
       "translations": {
         "af": "Ontmoet mense",
         "ar": "مقابلة الناس",
@@ -228,7 +228,7 @@
       }
     },
     {
-      "name": "Leaving People (Formal)",
+      "name": "Leaving people (Formal)",
       "translations": {
         "af": "Mense verlaat (formeel)",
         "ar": "ترك الناس (رسمي)",
@@ -277,7 +277,7 @@
       }
     },
     {
-      "name": "Leaving People (Informal)",
+      "name": "Leaving people (Informal)",
       "translations": {
         "af": "Mense verlaat (informeel)",
         "ar": "ترك الناس (غير رسمي)",
@@ -326,7 +326,7 @@
       }
     },
     {
-      "name": "Meeting People for the First Time (Formal)",
+      "name": "Meeting people for the first time (Formal)",
       "translations": {
         "af": "Ontmoet mense vir die eerste keer (formeel)",
         "ar": "لقاء الناس لأول مرة (رسمي)",
@@ -669,7 +669,7 @@
       }
     },
     {
-      "name": "Your Region",
+      "name": "Your region",
       "translations": {
         "af": "U streek",
         "ar": "منطقتك",
@@ -963,7 +963,7 @@
       }
     },
     {
-      "name": "Talents and Hobbies",
+      "name": "Talents and hobbies",
       "translations": {
         "af": "Talente en stokperdjies",
         "ar": "المواهب والهوايات",
