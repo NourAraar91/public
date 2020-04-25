@@ -1,0 +1,304 @@
+[
+    {
+      "topic": "Meeting People",
+      "words": [
+          "Hello",
+          "Good morning",
+          "Good afternoon",
+          "Good evening",
+          "How are you",
+          "How are you doing",
+          "It's nice to see you",
+          "How is your day",
+          "Hi",
+          "Hey man",
+          "How's it going?",
+          "How is everything",
+          "How is life",
+          "How are things",
+          "What's up",
+          "What's going on",
+          "How have you been",
+          "Long-time no see",
+          "It's been a while"
+      ]
+    },
+    {
+      "topic": "Leaving People (Formal)",
+      "words": [
+          "Goodbye",
+          "Bye",
+          "It was nice to meet you",
+          "It was nice meeting you",
+          "Goodnight",
+          "Have a good night"
+      ]
+    },
+    {
+      "topic": "Leaving People (Informal)",
+      "words": [
+          "See you",
+          "See you soon",
+          "See you next time",
+          "See you later",
+          "See you tomorrow",
+          "I have to go now",
+          "I have to get going",
+          "It was good seeing you",
+          "Take care of yourself",
+          "Till next time"
+      ]
+    },
+    {
+      "topic": "Meeting People for the First Time (Formal)",
+      "words": [
+          "My father is a doctor. He works at the local hospital.",
+          "Hello it's a pleasure to meet you",
+          "It's nice to meet you",
+          "Pleased to meet you",
+          "Glad to meet you",
+          "Good to meet you",
+          "How do you do"
+      ]
+    },
+    {
+      "topic": "Colors",
+      "words": [
+          "White",
+          "Yellow",
+          "Blue",
+          "Red",
+          "Green",
+          "Black",
+          "Azure",
+          "Brown",
+          "Ivory",
+          "Teal",
+          "Silver",
+          "Purple",
+          "Navy blue",
+          "Pea green",
+          "Gray",
+          "Orange",
+          "Maroon",
+          "Charcoal",
+          "Aquamarine",
+          "Coral",
+          "Fuchsia",
+          "Wheat",
+          "Lime",
+          "Crimson",
+          "Khaki",
+          "Hot pink",
+          "Magenta",
+          "Olden",
+          "Plum",
+          "Olive",
+          "Cyan"
+      ]
+    },
+  {
+    "topic": "Languages",
+    "words": [
+      "What languages do you speak?",
+      "What language do people speak in your country?",
+      "What language are you learning? Why?",
+      "What do you do to learn a language?",
+      "What’s hardest when learning a language?",
+      "What are your best tips for someone learning a language?",
+      "Are there any other languages that you’d like to learn?",
+      "What’s the most beautiful language?"
+    ]
+  },
+  {
+    "topic": "Career",
+    "words": [
+      "Where do you work?",
+      "What do you do? ",
+      "Describe a typical day at your work.",
+      "What’s the best thing about your job?",
+      "What’s the worst thing about your job?",
+      "How did you become qualified for your job?",
+      "Describe your very first job.",
+      "If you had to change jobs, what would you do?",
+      "What’s your dream job?",
+      "Describe the best job you’ve ever had.",
+      "Describe the worst job you’ve ever had.",
+      "Have you ever made a big mistake at work?"
+    ]
+  },
+  {
+    "topic": "Family",
+    "words": [
+      "Describe your family members.",
+      "Do you have any children?",
+      "Would you like to have children?",
+      "How are things different today than they were when you were a child?",
+      "Do you prefer big families or small families?",
+      "How often do you see your extended family?",
+      "Do you get along well with your parents?",
+      "What’s your best childhood memory?",
+      "What’s your favourite tv show?",
+      "What’s your favourite sport?",
+      "What’s your favourite movie?"
+    ]
+  },
+  {
+    "topic": "Animals",
+    "words": [
+      "Do you have any pets? If you don’t, would you like to?",
+      "What kind of dog is that?",
+      "What’s your dog’s name?",
+      "Did you have any pets as a child?",
+      "What’s your favourite animal?",
+      "What kind of wild animals are there in your country?",
+      "How do you feel about zoos?",
+      "If you could choose to be an animal, which one would you like to be?",
+      "Do you think that animals have emotions?"
+    ]
+  },
+  {
+    "topic": "Health",
+    "words": [
+      "You look in shape! ",
+      "What do you do to take care of your health?",
+      "Do you have any bad habits?",
+      "Do you think that people in general are healthy now?",
+      "What do you think is important for health?",
+      "Where do you work out?",
+      "Can you recommend me any gyms around here?",
+      "What are some health issues in your area?",
+      "How do you deal with stress?"
+    ]
+  },
+  {
+    "topic": "Your Region",
+    "words": [
+      "What city and country were you born in?",
+      "Describe your country or region.",
+      "What’s the best thing about your country?",
+      "What’s the worst thing about your country?",
+      "If I were coming to visit you for a week, what would we do and see?",
+      "Do you live in a big city or a small town?",
+      "Do you have any favourite places?",
+      "How long have you lived there?",
+      "Have you ever lived anywhere else?",
+      "Would you like to live anywhere else?"
+    ]
+  },
+  {
+    "topic": "Transportation",
+    "words": [
+      "Do you have a car?",
+      "Do you need a car to get around here?",
+      "Where do you usually book your flights?",
+      "Is there public transportation where you live?",
+      "Have you ever travelled by plane?",
+      "Have you ever travelled by train?",
+      "What’s your favourite mode of transportation?",
+      "Do you like to fly, or does it scare you?",
+      "What’s the longest trip you’ve ever taken?"
+    ]
+  },
+  {
+    "topic": "Books",
+    "words": [
+      "Do you like to read?",
+      "How about audiobooks?",
+      "What kind of books do you like to read?",
+      "Do you have a favourite book?",
+      "What’s your favourite reading spot?",
+      "Do you ever reread books?",
+      "What’s the last good book that you read?",
+      "Can you recommend me any business books that you’ve read before?",
+      "If you hate a book, do you still finish it?",
+      "Do you prefer ebooks or paper books?",
+      "Do you prefer books or movies?",
+      "Did you have a favourite book as a child?"
+    ]
+  },
+  {
+    "topic": "School",
+    "words": [
+      "Did you like school as a child?",
+      "Did you ever get in trouble?",
+      "Who was your favourite teacher?",
+      "What was your best subject?",
+      "What was your worst subject?",
+      "What’s the school system like in your country?",
+      "Did you go to college?",
+      "Would you like to go back to school?",
+      "Were you a good student?"
+    ]
+  },
+  {
+    "topic": "Holidays",
+    "words": [
+      "What holidays do you celebrate?",
+      "What’s your favourite holiday?",
+      "What’s your least favourite holiday?",
+      "Describe a childhood holiday memory.",
+      "Are holidays now different than they were when you were a child?",
+      "What was the best gift that you ever received?",
+      "What was the best gift that you ever gave?",
+      "Have you ever received a funny or terrible gift?",
+      "Have you ever given a funny or terrible gift?",
+      "Where do you usually buy your gift?"
+    ]
+  },
+  {
+    "topic": "Food",
+    "words": [
+      "What’s your favourite food?",
+      "Is there anything that you can’t stand to eat?",
+      "Do you like to cook?",
+      "If you were preparing a special meal for someone, what would it be?",
+      "Do you prefer to eat out or at home?",
+      "Where do you buy food?",
+      "If you had to choose a national food, what would it be?",
+      "Do you have a garden?",
+      "What was your favourite meal as a child?"
+    ]
+  },
+  {
+    "topic": "Talents and Hobbies",
+    "words": [
+      "Do you play any sports?",
+      "Do you play any musical instruments?",
+      "Do you draw or paint?",
+      "What are you good at?",
+      "What are you trying to get better at?",
+      "What would you like to learn how to do?",
+      "What did you like to do when you were a child?",
+      "If you could be really good at anything, what would you choose?",
+      "Is there anything that you’re really bad at?"
+    ]
+  },
+  {
+    "topic": "Travel",
+    "words": [
+      "What was your best travel experience?",
+      "If you could go anywhere in the world, where would you go?",
+      "Is there a place that you wouldn’t want to visit?",
+      "Have you ever lived in another country?",
+      "Would you rather travel independently or on a tour?",
+      "Would you rather visit a city or a wild area?",
+      "What do tourists come to your country to see?",
+      "Have you ever travelled all by yourself?"
+    ]
+  },
+  {
+    "topic": "Goals",
+    "words": [
+      "What are some goals that you’ve made in the past?",
+      "What would you like to achieve in the next Five years?",
+      "Are you good at sticking to your goals?",
+      "Have you ever failed to achieve a goal?",
+      "Do you prefer short term or long term goals?",
+      "What are you working on right now?",
+      "Do you think that it’s important to set goals?",
+      "Do you make New Year’s Resolutions?",
+      "What does success mean to you?"
+    ]
+  }
+]
