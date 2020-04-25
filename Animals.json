@@ -1,4 +1,52 @@
-[
+{
+  "name": "Animals",
+  "translations": {
+    "af": "diere",
+    "ar": "الحيوانات",
+    "az": "Heyvanlar",
+    "be": "Жывёлы",
+    "bg": "Животни",
+    "cs": "Zvířata",
+    "cy": "Anifeiliaid",
+    "da": "Dyr",
+    "de": "Tiere",
+    "el": "Των ζώων",
+    "es": "Animales",
+    "et": "Loomad",
+    "fa": "حیوانات",
+    "fi": "Eläimet",
+    "fr": "Animaux",
+    "ga": "Ainmhithe",
+    "hi": "जानवरों",
+    "hr": "životinje",
+    "hu": "állatok",
+    "hy": "Կենդանիներ",
+    "id": "Binatang",
+    "it": "Animali",
+    "iw": "בעלי חיים",
+    "ja": "動物",
+    "ka": "ცხოველები",
+    "kn": "ಪ್ರಾಣಿಗಳು",
+    "ko": "동물",
+    "la": "Animali",
+    "ms": "Haiwan",
+    "nl": "Dieren",
+    "no": "dyr",
+    "pl": "Zwierząt",
+    "pt": "Animais",
+    "ro": "animale",
+    "ru": "животные",
+    "sk": "zver",
+    "sq": "kafshët",
+    "sr": "Животиње",
+    "sv": "djur",
+    "th": "สัตว์",
+    "tr": "Hayvanlar",
+    "uk": "Тварини",
+    "vi": "Động vật",
+    "zh-CN": "动物"
+  },
+  "words": [
     {
       "key": "Do you have any pets? If you don’t, would you like to?",
       "translations": {
@@ -441,3 +489,4 @@
       }
     }
   ]
+}
